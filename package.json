@@ -21,9 +21,9 @@
     "dependencies": {
         "redis": "^0.12.1",
         "moment": "*",
-        "winston": "^0.7.3",
+        "winston": "^0.8.0",
         "async": "^0.9.0",
-        "mongoose": "^3.8.15",
+        "mongoose": "^5.12.3",
         "lodash": "^2.4.1",
         "bencode": "^0.6.0",
         "elasticsearch": "^2.4.3"
